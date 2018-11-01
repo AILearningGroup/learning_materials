@@ -21,7 +21,7 @@
 3. [极客头条](http://geek.csdn.net/)<br>
 4. [掘金](https://juejin.im/)<br>
 5. [SDK.CN](https://www.sdk.cn/)<br>
-6. [深度开源](ttp://www.open-open.com/)<br>
+6. [深度开源](http://www.open-open.com/)<br>
 7. [推酷](http://www.tuicool.com/)<br>
 8. [V2EX](https://www.v2ex.com/)<br>
 9. [SegmentFault](https://segmentfault.com/)<br>
