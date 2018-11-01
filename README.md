@@ -15,3 +15,22 @@
 [Deep Learning](http://www.deeplearningbook.org/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville，目前最权威的DL教材了<br>
 [Deep Learning中文版](https://github.com/exacity/deeplearningbook-chinese)<br>
 
+## 一些不错的技术网站
+1. [开发者头条](https://toutiao.io/) <br>
+2. [伯乐在线](http://www.jobbole.com/) <br>
+3. [极客头条](http://geek.csdn.net/)<br>
+4. [掘金](https://juejin.im/)<br>
+5. [SDK.CN](https://www.sdk.cn/)<br>
+6. [深度开源](ttp://www.open-open.com/)<br>
+7. [推酷](http://www.tuicool.com/)<br>
+8. [V2EX](https://www.v2ex.com/)<br>
+9. [SegmentFault](https://segmentfault.com/)<br>
+10. [InfoQ](https://www.infoq.com/)<br>
+11. [CSDN](http://www.csdn.net/)<br>
+12. [51CTO](http://www.51cto.com/)<br>
+13. [开源中国](http://www.oschina.net/)<br>
+
+来源：知乎 作者：李斯维<br>
+链接：https://www.zhihu.com/question/32002286/answer/154177474
+
+
