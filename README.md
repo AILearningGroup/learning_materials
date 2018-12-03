@@ -10,6 +10,7 @@
 
 ## Tutorial
 [Deep Learning Tutorial from Stanford](http://ufldl.stanford.edu/tutorial/) - Stanford计算机系的官方tutorial，Andrew Ng执笔。要想了解DL的原理，这个最好用了。<br>
+OpenAI Technical blogs: [OpenAI Generative Models](https://blog.openai.com/generative-models/)
 
 ## 教材
 [Deep Learning](http://www.deeplearningbook.org/) - Yoshua Bengio, Ian Goodfellow and Aaron Courville，目前最权威的DL教材了<br>
@@ -32,5 +33,8 @@
 
 来源：知乎 作者：李斯维<br>
 链接：https://www.zhihu.com/question/32002286/answer/154177474
+
+## DataSet
+1. Wiki dataset list: [List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 
 
